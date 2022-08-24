@@ -71,7 +71,40 @@ body {
     flex-direction: column;
     
     float: left;
-    
+      
+}
+footer {
+    height: 150px;
 
+}
+ul li {
+    display: inline;
+    text-align: center;
+    font-size: 160%;
+    color: white;
     
+    
+    
+}
+.footer-list {
+    text-decoration: none;
+    list-style-type: none;
+    
+    
+}
+.insta {
+    color: white;
+    text-decoration: none;
+}
+.facebook {
+    color: blue;
+    text-decoration: none;
+}
+.twitter {
+    color: cyan;
+    text-decoration: none;
+}
+.youtube {
+    color: red;
+    text-decoration: none;
 }
