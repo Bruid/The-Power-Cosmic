@@ -5,3 +5,32 @@ body {
     width: 100%;
     
 }
+.title {
+    color: aliceblue;
+    text-align: center;
+}
+.nav {
+    margin-top: 0px;
+
+}
+.nav ul {
+    margin: 0;
+    width: 100%;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0;
+    height: 45px;
+    
+}
+.nav ul li a{
+    line-height: 20px;
+    padding: 5px;
+    margin: 5px;
+    color: #ffffff;
+    float: left;
+    display: inline;
+    text-decoration: none;
+    white-space: nowrap;
+    
+
+}
