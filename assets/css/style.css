@@ -9,7 +9,7 @@ body {
     
 }
 .title {
-    color: aliceblue;
+    color: rgb(71, 11, 237);
     text-align: center;
 }
 .nav {
@@ -30,7 +30,7 @@ body {
     padding: 5px;
     margin: 5px;
     font-size: 25.1px;
-    color: #ffffff;
+    color: white;
     float: left;
     display: inline;
     text-decoration: none;
@@ -47,7 +47,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
-    opacity: 0.8;
+    
     font-size: 31px;
     border-radius: 15px;
     background-size: cover;
